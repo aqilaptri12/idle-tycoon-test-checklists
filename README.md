@@ -1,28 +1,28 @@
 # 🎮 Idle / Tycoon Game — QA Test Checklists
 
-Kumpulan checklist pengujian manual untuk mobile casual games bergenre **idle** dan **tycoon**.
+A collection of manual testing checklists for mobile casual games in the **idle** and **tycoon** genres.
 
-## 📂 Isi Checklist
+## 📂 Checklist Index
 
-| Fitur | File | Deskripsi |
-|---|---|---|
-| Resource Generation | [checklists/resource-generation.md](checklists/resource-generation.md) | Cek hitungan resource otomatis |
-| Upgrade System | [checklists/upgrade-system.md](checklists/upgrade-system.md) | Cek naik level building/hero |
-| Prestige System | [checklists/prestige-system.md](checklists/prestige-system.md) | Cek reset & bonus prestige |
-| Offline Progress | [checklists/offline-progress.md](checklists/offline-progress.md) | Cek hitungan saat game ditutup |
-| Monetization | [checklists/monetization.md](checklists/monetization.md) | Cek IAP & toko |
-| Ads | [checklists/ads.md](checklists/ads.md) | Cek iklan reward & interstisial |
-| Save / Load | [checklists/save-load.md](checklists/save-load.md) | Cek data tersimpan |
-| Mobile Interruptions | [mobile-specific/interruptions.md](mobile-specific/interruptions.md) | Cek telepon/SMS masuk |
-| Network Issues | [mobile-specific/network-issues.md](mobile-specific/network-issues.md) | Cek internet putus |
-| Background / Foreground | [mobile-specific/background-foreground.md](mobile-specific/background-foreground.md) | Cek pindah app |
+| Feature | File |
+|---|---|
+| Resource Generation | [checklists/resource-generation.md](checklists/resource-generation.md) |
+| Upgrade System | [checklists/upgrade-system.md](checklists/upgrade-system.md) |
+| Prestige System | [checklists/prestige-system.md](checklists/prestige-system.md) |
+| Offline Progress | [checklists/offline-progress.md](checklists/offline-progress.md) |
+| Monetization | [checklists/monetization.md](checklists/monetization.md) |
+| Ads | [checklists/ads.md](checklists/ads.md) |
+| Save / Load | [checklists/save-load.md](checklists/save-load.md) |
+| Mobile Interruptions | [mobile-specific/interruptions.md](mobile-specific/interruptions.md) |
+| Network Issues | [mobile-specific/network-issues.md](mobile-specific/network-issues.md) |
+| Background / Foreground | [mobile-specific/background-foreground.md](mobile-specific/background-foreground.md) |
 
-## 🎯 Cara Pakai
+## 🎯 How to Use
 
-1. Buka file checklist yang mau diuji.
-2. Centang setiap item pakai `[x]`.
-3. Kalau ada yang gagal, catat di kolom Notes.
+1. Open the checklist file for the feature you want to test.
+2. Tick each item using `[x]`.
+3. If an item fails, note it in the Notes column or in a separate bug report.
 
-## 🧠 Kenapa Repo Ini Ada?
+## 🧠 Why This Repo Exists
 
-Untuk menunjukkan pemahaman domain **idle/tycoon mobile games** dalam konteks QA manual.
+To demonstrate understanding of the **idle/tycoon mobile game domain** in the context of manual QA.
